@@ -38,11 +38,12 @@ display:         flex;
 
 .langButton {
   margin-top: 10px;
+  margin-bottom: 10px;
   float: left;
   width: 100%;;
 }
 
-
+.btn { color: white; }
 
 
 
